@@ -39,4 +39,6 @@
 {5,cdaa073a-4583-4f8b-b727-4e3e3a571436,"РегистрСведений.ЦеныНоменклатуры",9},
 {4,"_$InfoBase$_.DumpStart",16},
 {4,"_$InfoBase$_.DumpFinish",17},
-{4,"_$PerformError$_",18}
+{4,"_$PerformError$_",18},
+{4,"_$Session$_.ExternalDataProcessorConnectError",19},
+{4,"_$Session$_.ExternalDataProcessorConnect",20}
