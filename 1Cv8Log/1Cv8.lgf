@@ -41,4 +41,5 @@
 {4,"_$InfoBase$_.DumpFinish",17},
 {4,"_$PerformError$_",18},
 {4,"_$Session$_.ExternalDataProcessorConnectError",19},
-{4,"_$Session$_.ExternalDataProcessorConnect",20}
+{4,"_$Session$_.ExternalDataProcessorConnect",20},
+{4,"_$Transaction$_.Rollback",21}
