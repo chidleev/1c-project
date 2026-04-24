@@ -42,4 +42,14 @@
 {4,"_$PerformError$_",18},
 {4,"_$Session$_.ExternalDataProcessorConnectError",19},
 {4,"_$Session$_.ExternalDataProcessorConnect",20},
-{4,"_$Transaction$_.Rollback",21}
+{4,"_$Transaction$_.Rollback",21},
+{4,"_$User$_.New",22},
+{4,"_$Session$_.AuthenticationError",23},
+{1,cf2b8f18-1e72-4758-a333-2ecfc3196283,"Администратор",2},
+{13,1,2},
+{1,e3f6a942-56a9-42dc-944e-379faccbca8f,"Мастер",3},
+{13,1,3},
+{4,"_$Access$_.AccessDenied",24},
+{1,ca469177-0e1d-409d-b6d1-b1950608293b,"Менеджер по закупкам",4},
+{13,1,4},
+{4,"_$InfoBase$_.DumpError",25}
